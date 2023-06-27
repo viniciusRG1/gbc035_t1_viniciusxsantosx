@@ -1,4 +1,0 @@
-throws: você deixa a cargo de quem chamou o método onde ocorreu uma exceção tratá-la; 
-throw: é usado para o código do programador lançar uma exceção
-Checked exceptions são utilizadas para erros recuperáveis.
-Unchecked exceptions são utilizadas para erros irrecuperáveis.
